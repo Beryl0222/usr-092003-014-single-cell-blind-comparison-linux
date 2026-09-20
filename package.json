@@ -1,0 +1,10 @@
+{
+  "name": "single-cell-blind-comparison",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "scripts": {
+    "check": "node service.js --check",
+    "test": "node --test service.test.js"
+  }
+}
